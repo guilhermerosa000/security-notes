@@ -19,6 +19,7 @@ O foco aqui não é a resposta final, é o **caminho até ela**: o que eu observ
 
 ### PortSwigger Web Security Academy
 - [API Testing](./portswigger/api-testing/notas.md) — mass assignment, server-side parameter pollution, endpoints não documentados
+- [Path Traversal](./portswigger/path-traversal/notas.md) — leitura de arquivos fora do escopo pretendido, bypass de filtros, mitigação
 
 ### Hack The Box Academy
 - [Web Requests](./htb/web-requests/notas.md) — requisições HTTP via curl, headers, métodos
