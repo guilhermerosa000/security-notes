@@ -61,7 +61,7 @@ parecem inofensivos, mas juntos criam brechas sérias:
 
 ## Ferramentas usadas
 
-- Burp Suite (Repeater/Proxy) para interceptar e modificar requisições
+- Burp Suite (Repeater/Proxy/Intruder/Decode) para interceptar e modificar requisições
   e observar diferenças em respostas/status codes
 - Análise manual de cookies (decodificação Base64)
 
