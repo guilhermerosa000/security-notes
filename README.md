@@ -20,6 +20,7 @@ O que eu observei, o que testei, o que aprendi. Sem flags ou respostas literais 
 ### PortSwigger Web Security Academy
 - [API Testing](./portswigger/api-testing/notas.md) — mass assignment, server-side parameter pollution, endpoints não documentados
 - [Path Traversal](./portswigger/path-traversal/notas.md) — leitura de arquivos fora do escopo pretendido, bypass de filtros, mitigação
+- [Authentication Vulnerabilities](./portswigger/authentication-vulnerabilities/notas.md) — brute-force, bypass de 2FA, manipulação de cookies, roubo de sessão via XSS
 
 ### Hack The Box Academy
 - [Web Requests](./htb/web-requests/notas.md) — requisições HTTP via curl, headers, métodos
