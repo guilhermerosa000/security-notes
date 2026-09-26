@@ -2,7 +2,7 @@
 
 Repositório onde documento meu processo de aprendizado em cybersecurity — labs, conceitos e raciocínio por trás de cada desafio resolvido.
 
-O foco aqui não é a resposta final, é o **caminho até ela**: o que eu observei, o que testei, o que aprendi. Sem flags ou respostas literais de lab — só metodologia.
+O que eu observei, o que testei, o que aprendi. Sem flags ou respostas literais de lab — só metodologia.
 
 ---
 
