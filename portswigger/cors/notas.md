@@ -4,7 +4,7 @@
 
 Módulo sobre configurações incorretas de CORS. CORS é o mecanismo que permite
 um site liberar, de forma controlada, que páginas de outras origens leiam suas
-respostas. Quando configurado mal configurado, um site malicioso consegue
+respostas. Quando mal configurado, um site malicioso consegue
 acessar conteúdo que só deveria estar disponível para o próprio usuário logado.
 
 ## O que eu tentei
