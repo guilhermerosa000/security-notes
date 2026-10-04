@@ -22,6 +22,7 @@ O que eu observei, o que testei, o que aprendi. Sem flags ou respostas literais 
 - [Path Traversal](./portswigger/path-traversal/notas.md) — leitura de arquivos fora do escopo pretendido, bypass de filtros, mitigação
 - [Authentication Vulnerabilities](./portswigger/authentication-vulnerabilities/notas.md) — brute-force, bypass de 2FA, manipulação de cookies, roubo de sessão via XSS
 - [Access Control](./portswigger/access-control/notas.md) — escalada horizontal e vertical, GUID vazado, exposição de dados sensíveis
+- [SSRF](./portswigger/ssrf/notas.md) — requisições internas via servidor, confiança implícita em localhost
 
 ### Hack The Box Academy
 - [Web Requests](./htb/web-requests/notas.md) — requisições HTTP via curl, headers, métodos
