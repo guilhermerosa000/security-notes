@@ -24,6 +24,7 @@ O que eu observei, o que testei, o que aprendi. Sem flags ou respostas literais 
 - [Access Control](./portswigger/access-control/notas.md) — escalada horizontal e vertical, GUID vazado, exposição de dados sensíveis
 - [SSRF](./portswigger/ssrf/notas.md) — requisições internas via servidor, confiança implícita em localhost
 - [File Upload Vulnerabilities](./portswigger/file-upload/notas.md) — bypass de validação de tipo via Content-Type
+- [OS Command Injection](./portswigger/os-command-injection/notas.md) — injeção via pipe em parâmetro de requisição
 
 ### Hack The Box Academy
 - [Web Requests](./htb/web-requests/notas.md) — requisições HTTP via curl, headers, métodos
