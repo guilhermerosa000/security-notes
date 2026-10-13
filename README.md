@@ -28,6 +28,7 @@ O que eu observei, o que testei, o que aprendi. Sem flags ou respostas literais 
 
 ### Hack The Box Academy
 - [Web Requests](./htb/web-requests/notas.md) — requisições HTTP via curl, headers, métodos
+- [Windows Fundamentals](./htb/windows-fundamentals/notas.md) — estrutura do SO, NTFS e permissões, serviços, registro, SMB, firewall e RDP
 
 ### pwn.college
 - [Linux Luminarium](./pwn-college/linux-luminarium/notas.md) — permissões (chmod), pipes, processos
@@ -35,11 +36,13 @@ O que eu observei, o que testei, o que aprendi. Sem flags ou respostas literais 
 
 ---
 
-## 🛠️ Ferramentas que apareceram até aqui
+## 🛠️ Ferramentas 
 
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![curl](https://img.shields.io/badge/-curl-073551?style=flat-square&logo=curl&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 ---
 
